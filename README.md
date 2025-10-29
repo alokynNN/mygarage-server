@@ -1,6 +1,7 @@
-# ![My Garage](icon.png) My Garage
+# ![My Garage](icon.png)
+# My Garage
 
-[Support](#) • [Discord](#) • [Website](#)
+[Support](https://support.alokynn.com) • [Discord](https://discord.alokynn.com) • [Website](https://alokynn.com)
 
 ## What is My Garage?
 
