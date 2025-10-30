@@ -1,8 +1,8 @@
 const Info = {
   async render() {
     const APP_VERSION = '1.0.0';
-    const SUPPORT_EMAIL = 'support@alokynn.com';
-    const SUPPORT_LINK = 'https://support.alokynn.com';
+    const SUPPORT_EMAIL = 'support@alokyn.com';
+    const SUPPORT_LINK = 'https://support.alokyn.com';
 
     document.getElementById('mainContent').innerHTML = `
       <div class="glass-card rounded-2xl p-8 max-w-4xl mx-auto">
