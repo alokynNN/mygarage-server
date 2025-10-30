@@ -6,9 +6,9 @@
   A modern inventory management application for organizing your garage items, tools, car parts, and equipment.
 </div>
 
-[![Support](https://img.shields.io/badge/Support-Visit-blue)](https://support.alokynn.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da)](https://discord.alokynn.com)
-[![Website](https://img.shields.io/badge/Website-Visit-green)](https://alokynn.com)
+[![Support](https://img.shields.io/badge/Support-Visit-blue)](https://support.alokyn.com)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289da)](https://discord.alokyn.com)
+[![Website](https://img.shields.io/badge/Website-Visit-green)](https://alokyn.com)
 
 ---
 
@@ -125,9 +125,9 @@ You can customize the application by modifying the `.env` file:
 
 Need help? We're here for you!
 
-- 📧 [Support Portal](https://support.alokynn.com)
-- 💬 [Join our Discord](https://discord.alokynn.com)
-- 🌐 [Visit our Website](https://alokynn.com)
+- 📧 [Support Portal](https://support.alokyn.com)
+- 💬 [Join our Discord](https://discord.alokyn.com)
+- 🌐 [Visit our Website](https://alokyn.com)
 
 ---
 
