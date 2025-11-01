@@ -67,6 +67,7 @@ DB_PORT=3306
 DB_NAME=mygarage
 DB_USER=mygarage_user
 DB_PASSWORD=jaka_sifra_123
+JWT_SECRET=RANDOMTOKEN_ENTER
 ```
 
 ### 5️⃣ Set Up Database
